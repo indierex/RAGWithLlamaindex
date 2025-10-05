@@ -1,12 +1,11 @@
 # LinkedIn Profiler Bot
 
-An AI-powered tool that generates personalized icebreakers and conversation starters based on LinkedIn profiles. This project uses IBM watsonx.ai and LlamaIndex to create a tool that helps make introductions more personal and engaging.
+An AI-powered tool that generates personalized profiler and conversation starters based on LinkedIn profiles. This project uses IBM watsonx.ai and LlamaIndex to create a tool that helps make introductions more personal and engaging.
 
 ## Project Overview
 
-Imagine you're heading to a big networking event, surrounded by potential employers and industry leaders. You want to make a great first impression, but you're struggling to come up with more than the usual, "What do you do?"
 
-This AI icebreaker bot does the research for you. You input a name, and within seconds, the bot searches LinkedIn, generating personalized icebreakers based on someone's career highlights, interests, and even fun facts.
+This AI Profiler bot does the research for you. You input a name, and within seconds, the bot searches LinkedIn, generating personalized icebreakers based on someone's career highlights, interests, and even fun facts.
 
 ## Features
 
@@ -43,8 +42,7 @@ icebreaker_bot/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/HaileyTQuach/icebreaker.git
-cd icebreaker
+
 ```
 
 2. Create a virtual environment:
@@ -116,12 +114,4 @@ This is a starter template with placeholder functions. Your task is to implement
    - Implement the `process_profile` function
    - Implement the `chat_with_profile` function
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- IBM watsonx.ai for providing the LLM and embedding models
-- LlamaIndex for the data indexing and retrieval framework
-- ProxyCurl for LinkedIn profile data extraction
