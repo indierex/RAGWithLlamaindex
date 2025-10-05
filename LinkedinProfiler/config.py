@@ -2,7 +2,7 @@
 
 # IBM watsonx.ai settings
 WATSONX_URL = "https://us-south.ml.cloud.ibm.com"
-WATSONX_PROJECT_ID = "79a86d88-28f6-4507-9724-4cb99f1771cd"
+WATSONX_PROJECT_ID = ""
 
 # Model settings
 LLM_MODEL_ID = "ibm/granite-3-2-8b-instruct"
