@@ -1,4 +1,4 @@
-# LinkedIn Icebreaker Bot
+# LinkedIn Profiler Bot
 
 An AI-powered tool that generates personalized icebreakers and conversation starters based on LinkedIn profiles. This project uses IBM watsonx.ai and LlamaIndex to create a tool that helps make introductions more personal and engaging.
 
